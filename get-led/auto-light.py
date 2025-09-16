@@ -11,3 +11,16 @@ GPIO.setup(port,GPIO.IN)
 while True:
     input_state = GPIO.input(port)
     GPIO.output(led,not input_state)
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+
+# hfjghfjfhkjf
